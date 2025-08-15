@@ -21,5 +21,5 @@ The dashboard visualizes sales performance over time, across regions, and by pro
 5. Added a **Region slicer** for interactivity.<br>
 6. Formatted visuals (titles, labels, currency, and colors).<br>
 7. Displayed **three KPI Cards** at the top for quick business overview.<br>
-8. Wrote **key insights** from the dashboard and placed them in the report.<br>
+8. Wrote **key insights** from the dashboard.
 
